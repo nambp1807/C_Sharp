@@ -13,12 +13,26 @@
       <Compile Remove="Lab2.cs" />
       <Compile Remove="Multithread\DemoMultithread.cs" />
       <None Include="Multithread\DemoMultithread.cs" />
+      <Compile Remove="lab1\Fibonacci.cs" />
+      <None Include="lab1\Fibonacci.cs" />
       <Compile Remove="lab4\Lab4.cs" />
       <None Include="lab4\Lab4.cs" />
+      <Compile Remove="lab2\Lab2.cs" />
+      <None Include="lab2\Lab2.cs" />
+      <Compile Remove="lab5\Program.cs" />
+      <None Include="lab5\Program.cs" />
+      <Compile Remove="lab3\Program.cs" />
+      <None Include="lab3\Program.cs" />
+      <Compile Remove="assignment4\Program.cs" />
+      <None Include="assignment4\Program.cs" />
     </ItemGroup>
 
     <ItemGroup>
       <EmbeddedResource Include="lab2\Action.cs" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="assignment2" />
     </ItemGroup>
 
 </Project>

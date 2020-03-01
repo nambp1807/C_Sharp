@@ -4,16 +4,31 @@
     <e p="C:\Users\Admin\.Rider2019.3\system\extResources" t="IncludeRecursive" />
     <e p="C:\Users\Admin\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_.19.00" t="ExcludeRecursive" />
     <e p="D:\T1904A-C\T1904A" t="IncludeRecursive">
-      <e p="Assigment1" t="Include">
-        <e p="Fibonacci.cs" t="Include" />
+      <e p="assignment2" t="Include" />
+      <e p="assignment4" t="Include">
+        <e p="Program.cs" t="Include" />
       </e>
       <e p="bin" t="ExcludeRecursive" />
+      <e p="lab1" t="Include">
+        <e p="Fibonacci.cs" t="Include" />
+      </e>
       <e p="lab2" t="Include">
         <e p="Action.cs" t="Include" />
         <e p="Lab2.cs" t="Include" />
       </e>
+      <e p="lab3" t="Include">
+        <e p="Program.cs" t="Include" />
+      </e>
       <e p="lab4" t="Include">
         <e p="Lab4.cs" t="Include" />
+      </e>
+      <e p="lab5" t="Include">
+        <e p="khachHang.cs" t="Include" />
+        <e p="khachHangNN.cs" t="Include" />
+        <e p="khachHangVN.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="QuanLyNN.cs" t="Include" />
+        <e p="QuanLyVN.cs" t="Include" />
       </e>
       <e p="Multithread" t="Include">
         <e p="DemoMultithread.cs" t="Include" />

@@ -1,6 +1,7 @@
-﻿namespace t1904a
+﻿using System;
+namespace t1904a.lab2
 {
-    public class Lab2
+     public class Lab2
     {
          static void Main(string[] args)
         {
