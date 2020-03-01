@@ -1,0 +1,11 @@
+D:\T1904A-C\T1904A\bin\Debug\netcoreapp3.1\T1904A.exe
+D:\T1904A-C\T1904A\bin\Debug\netcoreapp3.1\T1904A.deps.json
+D:\T1904A-C\T1904A\bin\Debug\netcoreapp3.1\T1904A.runtimeconfig.json
+D:\T1904A-C\T1904A\bin\Debug\netcoreapp3.1\T1904A.runtimeconfig.dev.json
+D:\T1904A-C\T1904A\bin\Debug\netcoreapp3.1\T1904A.dll
+D:\T1904A-C\T1904A\bin\Debug\netcoreapp3.1\T1904A.pdb
+D:\T1904A-C\T1904A\obj\Debug\netcoreapp3.1\T1904A.csprojAssemblyReference.cache
+D:\T1904A-C\T1904A\obj\Debug\netcoreapp3.1\T1904A.AssemblyInfoInputs.cache
+D:\T1904A-C\T1904A\obj\Debug\netcoreapp3.1\T1904A.AssemblyInfo.cs
+D:\T1904A-C\T1904A\obj\Debug\netcoreapp3.1\T1904A.dll
+D:\T1904A-C\T1904A\obj\Debug\netcoreapp3.1\T1904A.pdb

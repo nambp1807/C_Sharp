@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Admin\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Admin\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_.19.00" t="ExcludeRecursive" />
+    <e p="D:\T1904A-C\T1904A" t="IncludeRecursive">
+      <e p="Assigment1" t="Include">
+        <e p="Fibonacci.cs" t="Include" />
+      </e>
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="lab2" t="Include">
+        <e p="Action.cs" t="Include" />
+        <e p="Lab2.cs" t="Include" />
+      </e>
+      <e p="lab4" t="Include">
+        <e p="Lab4.cs" t="Include" />
+      </e>
+      <e p="Multithread" t="Include">
+        <e p="DemoMultithread.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="T1904A.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Products.cs" t="Include" />
+      <e p="T1904A.csproj" t="IncludeRecursive" />
+    </e>
+  </component>
+</project>

@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Compile Remove="Action.cs" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Compile Remove="Lab2.cs" />
+      <Compile Remove="Multithread\DemoMultithread.cs" />
+      <None Include="Multithread\DemoMultithread.cs" />
+      <Compile Remove="lab4\Lab4.cs" />
+      <None Include="lab4\Lab4.cs" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <EmbeddedResource Include="lab2\Action.cs" />
+    </ItemGroup>
+
+</Project>
