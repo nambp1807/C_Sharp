@@ -21,7 +21,6 @@
       <None Include="lab2\Lab2.cs" />
       <Compile Remove="lab5\Program.cs" />
       <None Include="lab5\Program.cs" />
-      <Compile Remove="assignment4\Program.cs" />
       <Compile Remove="assignment2\Program.cs" />
       <None Include="assignment2\Program.cs" />
       <Compile Remove="lab3\Program.cs" />
@@ -30,10 +29,6 @@
 
     <ItemGroup>
       <EmbeddedResource Include="lab2\Action.cs" />
-    </ItemGroup>
-
-    <ItemGroup>
-      <Folder Include="assignment4" />
     </ItemGroup>
 
 </Project>

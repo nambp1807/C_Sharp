@@ -4,7 +4,12 @@
     <e p="C:\Users\Admin\.Rider2019.3\system\extResources" t="IncludeRecursive" />
     <e p="C:\Users\Admin\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_.19.00" t="ExcludeRecursive" />
     <e p="D:\T1904A-C\T1904A" t="IncludeRecursive">
-      <e p="assignment2" t="Include" />
+      <e p="assignment2" t="Include">
+        <e p="Action.cs" t="Include" />
+        <e p="Cart.cs" t="Include" />
+        <e p="Product.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+      </e>
       <e p="assignment4" t="Include">
         <e p="Program.cs" t="Include" />
       </e>
