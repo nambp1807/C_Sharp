@@ -24,7 +24,8 @@
       <Compile Remove="lab3\Program.cs" />
       <None Include="lab3\Program.cs" />
       <Compile Remove="assignment4\Program.cs" />
-      <None Include="assignment4\Program.cs" />
+      <Compile Remove="assignment2\Program.cs" />
+      <None Include="assignment2\Program.cs" />
     </ItemGroup>
 
     <ItemGroup>
@@ -32,7 +33,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="assignment2" />
+      <Folder Include="assignment4" />
     </ItemGroup>
 
 </Project>
