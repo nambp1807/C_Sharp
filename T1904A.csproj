@@ -25,6 +25,8 @@
       <None Include="assignment2\Program.cs" />
       <Compile Remove="lab3\Program.cs" />
       <None Include="lab3\Program.cs" />
+      <Compile Remove="assignment4\Program.cs" />
+      <None Include="assignment4\Program.cs" />
     </ItemGroup>
 
     <ItemGroup>
